@@ -1,0 +1,11 @@
+Write a beginner-friendly Python program for a Student Marks Analyzer that:
+
+1. Calculates average, highest and lowest marks.
+2. Counts passed and failed students (pass mark: 60).
+3. Assigns grades (A: 90+, B: 80+, C: 70+, D: 60+, F: below 60).
+4. Validates marks between 0 and 100.
+5. Handles empty lists.
+6. Uses functions and comments.
+7. Displays results clearly.
+
+Use the sample input `[95, 85, 75, 65, 45]`. Provide complete runnable code, output, a brief explanation, and time and space complexity. Keep the code simple for a first-year student.
